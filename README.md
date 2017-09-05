@@ -1,5 +1,5 @@
-Collection Tree (plugin for Omeka)
-==================================
+Modified Collection Tree (plugin for Omeka)
+===========================================
 
 
 Summary
@@ -7,6 +7,8 @@ Summary
 
 This plugin for [Omeka] gives administrators the ability to create a
 hierarchical tree of their collections.
+
+This plugin has been modified for use with a new element set.
 
 
 Installation
